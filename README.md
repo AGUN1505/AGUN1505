@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AGUN1505&show_icons=true&theme=radical)
+![AGUN GitHub stats](https://github-readme-stats.vercel.app/api?username=AGUN1505&show_icons=true&theme=radical)
 <img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AGUN1505&layout=compact&langs_count=8&theme=dark"/>
 
 <p align="center"> 
