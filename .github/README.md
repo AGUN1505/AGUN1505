@@ -59,3 +59,9 @@
 <img src="https://github.com/AGUN1505/AGUN1505/blob/main/snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/AGUN1505/count.svg?"  />
+</div>
+
+###
