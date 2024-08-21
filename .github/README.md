@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Agun Firmansyah and I'm a Student, from University Nurdin Hamzah</h2>
+<h2 align="left">Hi 👋! My name is Agun Firmansyah and I'm a Student, from Nurdin Hamzah University</h2>
 
 ###
 
