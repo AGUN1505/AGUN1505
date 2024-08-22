@@ -47,7 +47,7 @@
   <a href="https://www.linkedin.com/in/agun-firmansyah-715a762a9/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://discord.com/agun1505" target="_blank">
+  <a href="https://discord.gg/KQHtcuWPwH" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
   <a href="https://www.youtube.com/@agunfirmansyah3451" target="_blank">
