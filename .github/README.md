@@ -1,13 +1,27 @@
 <h2 align="left">Hi 👋! My name is Agun Firmansyah and I'm a Student, from Nurdin Hamzah University</h2>
 
 ###
-
+<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AGUN1505&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AGUN1505&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   <a href="https://github.com/AGUN1505">
     <img height="240cm" width="610em" src="https://github-readme-streak-stats.herokuapp.com/?user=AGUN1505&theme=dracula&count_private=true"/>
   </a>
+</div>
+-->
+
+<div align="center">
+<a href="https://github.com/AGUN1505">
+  <img width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AGUN1505&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=AGUN1505&theme=dracula&hide_border=true&count_private=true"/>
+ 
+  <!-- <img width="400em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fajrCode&theme=github_dark&utcOffset=8"/> -->
+  <!-- <img width="400em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fajrCode&theme=github_dark"/> -->
+  <!-- <img width="400em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fajrCode&theme=github_dark"/> -->
+  <!-- <img width="400em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fajrCode&theme=github_dark"/> -->
+  <img width="800em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AGUN1505&theme=dracula"/>
+</a>
 </div>
 
 ###
